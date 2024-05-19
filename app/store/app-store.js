@@ -34,6 +34,6 @@ export const useStore = create(set => ({
 	},
 	theme : false,
 	setTheme :(theme) => {
-		set({ theme : !theme})
+		set({ theme : !theme})//d
 	}
 }))
