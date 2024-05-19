@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://localhost:3001/api'
+export const BASE_URL = 'https://merkin-server.nomoredomainswork.ru/admin/dashboard'
 
 export const endpoints = {
 	games: `${BASE_URL}/games`,
